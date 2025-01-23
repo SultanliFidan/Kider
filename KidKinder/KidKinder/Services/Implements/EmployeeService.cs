@@ -56,7 +56,7 @@ namespace KidKinder.Services.Implements
 
         public async Task<ICollection<EmployeeItemVM>> GetEmployees()
         {
-            ICollection<Employee> employees = await _context.Employees.ToListAsync();
+            ICollection<Employee> employees = await _context.Employees.Include(x =>x.Department).ToListAsync();
             ICollection<EmployeeItemVM> employeeItems = _mapper.Map<ICollection<EmployeeItemVM>>(employees);
             return employeeItems;
         }

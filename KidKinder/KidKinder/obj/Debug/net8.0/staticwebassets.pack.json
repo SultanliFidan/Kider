@@ -7621,12 +7621,24 @@
       "PackagePath": "staticwebassets\\assets\\mail\\jqBootstrapValidation.min.js"
     },
     {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\wwwroot\\images\\employees\\4vj05z2a.ooj.png",
+      "PackagePath": "staticwebassets\\images\\employees\\4vj05z2a.ooj.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\wwwroot\\images\\employees\\be5011hs.qzx.png",
+      "PackagePath": "staticwebassets\\images\\employees\\be5011hs.qzx.png"
+    },
+    {
       "Id": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\wwwroot\\images\\employees\\fqqvrtll.fq5.png",
       "PackagePath": "staticwebassets\\images\\employees\\fqqvrtll.fq5.png"
     },
     {
       "Id": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\wwwroot\\images\\employees\\jmq2jwtf.nya.png",
       "PackagePath": "staticwebassets\\images\\employees\\jmq2jwtf.nya.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\wwwroot\\images\\employees\\zakqf5fq.5ky.png",
+      "PackagePath": "staticwebassets\\images\\employees\\zakqf5fq.5ky.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KidKinder.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -1902,5 +1902,8 @@ wwwroot\assets\lib\tempusdominus\js\tempusdominus-bootstrap-4.min.js
 wwwroot\assets\mail\contact.js
 wwwroot\assets\mail\contact.php
 wwwroot\assets\mail\jqBootstrapValidation.min.js
+wwwroot\images\employees\4vj05z2a.ooj.png
+wwwroot\images\employees\be5011hs.qzx.png
 wwwroot\images\employees\fqqvrtll.fq5.png
 wwwroot\images\employees\jmq2jwtf.nya.png
+wwwroot\images\employees\zakqf5fq.5ky.png

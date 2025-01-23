@@ -8,15 +8,16 @@ namespace KidKinder.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Authorize(Roles = "Admin")]
-    public class EmployeeController(IEmployeeService _service,IWebHostEnvironment _env) : Controller
+    public class EmployeeController(IEmployeeService _service,IWebHostEnvironment _env,IDepartmentService _departmentService) : Controller
     {
         public async Task<IActionResult> Index()
         {
             return View(await _service.GetEmployees());
         }
 
-        public IActionResult Create()
+        public async  Task<IActionResult> Create()
         {
+            ViewBag.Departments = await _departmentService.GetAllDepartments();
             return View();
         }
         [HttpPost]
@@ -24,15 +25,13 @@ namespace KidKinder.Areas.Admin.Controllers
         {
             
             if(!ModelState.IsValid) return View(vm);
-
-            if(vm.File != null)
+            ViewBag.Departments = await _departmentService.GetAllDepartments();
+            if (vm.File != null)
             {
                 if (!vm.File.IsValidType("image")) 
                     ModelState.AddModelError("File", "File can be an image");
                 if (!vm.File.IsValidSize(400))
                     ModelState.AddModelError("File", "File must be less than 400 kb");
-
-                
             }
             string destination = _env.WebRootPath;
             await _service.EmployeeCreate(vm,destination);
@@ -40,6 +39,7 @@ namespace KidKinder.Areas.Admin.Controllers
         }
         public async Task<IActionResult> Update(int id)
         {
+            ViewBag.Departments = await _departmentService.GetAllDepartments();
             var data = await _service.GetEmployeeItemById(id);
             if (data == null)
                 throw new Exception("not found");
@@ -50,7 +50,7 @@ namespace KidKinder.Areas.Admin.Controllers
         {
            
             if (!ModelState.IsValid) return View(vm);
-
+            ViewBag.Departments = await _departmentService.GetAllDepartments();
             if (vm.File != null)
             {
                 if (!vm.File.IsValidType("image"))
