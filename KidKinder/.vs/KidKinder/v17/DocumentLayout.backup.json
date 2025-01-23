@@ -1,0 +1,845 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\migrations\\20250123080013_addedseeddatatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\migrations\\20250123080013_addedseeddatatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\extensions\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\extensions\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\extensions\\roleextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\extensions\\roleextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\viewmodels\\auths\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\viewmodels\\auths\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\context\\kidkinderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\context\\kidkinderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\services\\abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\services\\abstractions\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\services\\implements\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\services\\implements\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\services\\implements\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\profiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\profiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\viewmodels\\departments\\departmentitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\viewmodels\\departments\\departmentitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\viewmodels\\employees\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\viewmodels\\employees\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\viewmodels\\employees\\employeeitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\viewmodels\\employees\\employeeitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\viewmodels\\employees\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\viewmodels\\employees\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\startbootstrap-sb-admin-2-gh-pages\\tables.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|c:\\users\\ii novbe\\desktop\\kidkinder\\kidkinder\\kidkinder\\migrations\\20250123072021_createdusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102AB4A-CB92-4715-B890-2D9B1C0C6FF9}|KidKinder\\KidKinder.csproj|solutionrelative:kidkinder\\migrations\\20250123072021_createdusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DepartmentItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Departments\\DepartmentItemVM.cs",
+              "RelativeDocumentMoniker": "KidKinder\\ViewModels\\Departments\\DepartmentItemVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Departments\\DepartmentItemVM.cs",
+              "RelativeToolTip": "KidKinder\\ViewModels\\Departments\\DepartmentItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:33:09.036Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250123080013_AddedSeedDataTable.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Migrations\\20250123080013_AddedSeedDataTable.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Migrations\\20250123080013_AddedSeedDataTable.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Migrations\\20250123080013_AddedSeedDataTable.cs",
+              "RelativeToolTip": "KidKinder\\Migrations\\20250123080013_AddedSeedDataTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:00:13.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedExtension.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Extensions\\SeedExtension.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Extensions\\SeedExtension.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Extensions\\SeedExtension.cs",
+              "RelativeToolTip": "KidKinder\\Extensions\\SeedExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:43:09.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleExtension.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Extensions\\RoleExtension.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Extensions\\RoleExtension.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Extensions\\RoleExtension.cs",
+              "RelativeToolTip": "KidKinder\\Extensions\\RoleExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:40:09.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "KidKinder\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T07:35:25.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "KidKinder\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvygAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T07:22:17.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KidKinder\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:44:49.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:44:02.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Program.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Program.cs",
+              "RelativeToolTip": "KidKinder\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:39:50.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:38:10.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:33:37.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KidKinder\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:25:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "KidKinder\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:52:09.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250123072021_CreatedUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Migrations\\20250123072021_CreatedUserTable.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Migrations\\20250123072021_CreatedUserTable.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Migrations\\20250123072021_CreatedUserTable.cs",
+              "RelativeToolTip": "KidKinder\\Migrations\\20250123072021_CreatedUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:20:21.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\appsettings.json",
+              "RelativeDocumentMoniker": "KidKinder\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\appsettings.json",
+              "RelativeToolTip": "KidKinder\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T04:58:43.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Auths\\LoginVM.cs",
+              "RelativeDocumentMoniker": "KidKinder\\ViewModels\\Auths\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Auths\\LoginVM.cs",
+              "RelativeToolTip": "KidKinder\\ViewModels\\Auths\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:40:42.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Models\\User.cs",
+              "RelativeToolTip": "KidKinder\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:37:13.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "KidKinder\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "KidKinder\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-23T04:33:08.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KidkinderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Context\\KidkinderDbContext.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Context\\KidkinderDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Context\\KidkinderDbContext.cs",
+              "RelativeToolTip": "KidKinder\\Context\\KidkinderDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:57:43.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Auths\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "KidKinder\\ViewModels\\Auths\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Auths\\RegisterVM.cs",
+              "RelativeToolTip": "KidKinder\\ViewModels\\Auths\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:41:58.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Enums\\Roles.cs",
+              "RelativeToolTip": "KidKinder\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:54:07.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Services\\Abstractions\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Services\\Abstractions\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Services\\Abstractions\\IEmployeeService.cs",
+              "RelativeToolTip": "KidKinder\\Services\\Abstractions\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:19:30.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KidKinder\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:26:36.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KidKinder\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:25:04.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:39:44.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Services\\Implements\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Services\\Implements\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Services\\Implements\\EmployeeService.cs",
+              "RelativeToolTip": "KidKinder\\Services\\Implements\\EmployeeService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:21:03.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:29:45.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:21:05.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:17:47.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T05:59:48.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "KidKinder\\Extensions\\FileExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:06:30.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T06:03:14.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:34:24.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T05:53:04.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Services\\Implements\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Services\\Implements\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Services\\Implements\\DepartmentService.cs",
+              "RelativeToolTip": "KidKinder\\Services\\Implements\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:15:00.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Profiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Profiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Profiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "KidKinder\\Profiles\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:11:55.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Profiles\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Profiles\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Profiles\\EmployeeProfile.cs",
+              "RelativeToolTip": "KidKinder\\Profiles\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:11:01.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Services\\Abstractions\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeToolTip": "KidKinder\\Services\\Abstractions\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:13:14.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DepartmentUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeDocumentMoniker": "KidKinder\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeToolTip": "KidKinder\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:02:34.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DepartmentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeDocumentMoniker": "KidKinder\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeToolTip": "KidKinder\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:01:53.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeeCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "RelativeDocumentMoniker": "KidKinder\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "RelativeToolTip": "KidKinder\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:04:05.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmployeeItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Employees\\EmployeeItemVM.cs",
+              "RelativeDocumentMoniker": "KidKinder\\ViewModels\\Employees\\EmployeeItemVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Employees\\EmployeeItemVM.cs",
+              "RelativeToolTip": "KidKinder\\ViewModels\\Employees\\EmployeeItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:05:47.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmployeeUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "RelativeDocumentMoniker": "KidKinder\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "RelativeToolTip": "KidKinder\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:05:32.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Models\\Employee.cs",
+              "RelativeToolTip": "KidKinder\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:49:43.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "tables.html",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "RelativeDocumentMoniker": "..\\..\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "RelativeToolTip": "..\\..\\startbootstrap-sb-admin-2-gh-pages\\tables.html",
+              "ViewState": "AgIAAG4BAAAAAAAAAIBJwHQBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T05:53:41.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Models\\Department.cs",
+              "RelativeToolTip": "KidKinder\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:49:12.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "KidKinder\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:56:02.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "KidKinder\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "KidKinder\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:48:20.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAIBZwDkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:34:43.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KidKinder\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:34:14.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KidKinder\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\KidKinder\\KidKinder\\KidKinder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KidKinder\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAIBZwEsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:25:48.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿@model EmployeeCreateVM
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Create</h6>
+        <a class="btn btn-primary" asp-action="Create" asp-controller="Employee">Create</a>
+    </div>
+</div>
+
+<form enctype="multipart/form-data" method="post">
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input class="form-control" asp-for="Name" />
+        <span class="text-warning" asp-validation-for="Name"></span>
+    </div>
+     <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input class="form-control" asp-for="Description" />
+        <span class="text-warning" asp-validation-for="Description"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="File">File</label>
+        <input class="form-control" asp-for="File" />
+        <span class="text-warning" asp-validation-for="File"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DepartmentId">Department</label>
+        <input class="form-control" asp-for="DepartmentId" />
+        <span class="text-warning" asp-validation-for="DepartmentId"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
